@@ -1,3 +1,4 @@
 {
-  "products": ["products 1" ,"products 2" ,"products 3" ,"products 4"]
+  "products": ["products 1" ,"products 2" ,"products 3" ,"products 4"],
+   "list": ["products 1" ,"products 2" ,"products 3" ,"products 4"]
 }
