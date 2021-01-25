@@ -1,8 +1,4 @@
 {
-  "products": [
-    { "id": 1, "title": "products 1" },
-    { "id": 2, "title": "products 2" },
-    { "id": 3, "title": "products 3" }
-  ]
+  "products": ["products 1" ,"products 2" ,"products 3" ,"products 4"]
   
 }
